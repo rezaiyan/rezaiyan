@@ -6,6 +6,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaiyan&langs_count=2" />
 </a>
 
+
+#### 🎤 Talks:
+
+* Good system design [+](https://speakerdeck.com/rezaiyan/good-system-design)
+* Dependency Injection [+](https://github.com/rezaiyan/dependency-injection)
+* How to plan for my journey? [+](https://speakerdeck.com/rezaiyan/how-to-plan-for-my-journey)
 <!--
 **rezaiyan/rezaiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
