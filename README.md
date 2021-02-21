@@ -12,7 +12,7 @@
 </a>
 
 
-#### 🎤 Talks:
+### 🎤 Talks:
 
 * Good system design [+](https://speakerdeck.com/rezaiyan/good-system-design)
 * Dependency Injection [+](https://github.com/rezaiyan/dependency-injection)
@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🤝🏻 Connect with me:
+
+[<img align="left" alt="Ali Rezaiyan | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" />](https://www.linkedin.com/in/rezaiyan)
+[<img align="left" alt="Ali Rezaiyan | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-icon-circle-blue-logo-94339974C6-seeklogo.com.png" />](https://twitter.com/arezaiyan)
+<br />
