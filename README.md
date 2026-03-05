@@ -1,62 +1,76 @@
 <div align="center">
-   <h1>Hi, I'm Ali 👋</h1>
+  <h1>Hi, I'm Ali 👋</h1>
 </div>
 
-Hi! Thanks for stopping by.
+Hi, thanks for stopping by.
 
-I might not always say things in the best way, but I genuinely enjoy meeting people and having conversations. A big part of my life is my **software development career**, and I’m always learning something new. My main focus is **Android development**, but I like exploring other areas too — curious, sometimes messy, but always growing.
+A big part of my life is software development. I spend a lot of time learning, building things, and trying to understand how systems work. My main focus is Android development, but I like exploring other areas as well.
 
-I enjoy sharing what I know, even in small pieces. Recently I’ve been active on **ADPlist**, meeting people and exchanging experiences. I also tried **YouTube** (it’s definitely not as easy as it looks 😅)… maybe I’ll return to it with more consistency one day.
+Sometimes that means backend projects, sometimes blockchain, sometimes just experimenting with a new tool or idea. Not everything is perfect, but I enjoy the process of learning and improving.
+
+I also like sharing what I learn. Recently I've been doing mentoring on ADPList and talking with other developers. I also tried making videos on YouTube. It turned out to be much harder than I expected 😅 but maybe I will come back to it again.
 
 ---
 
-### 🧑‍💻 About Me — Software Engineer
+### About Me
 
-**Primary Specialization**
-- **Android:** Kotlin • Jetpack Compose • Coroutines • MVVM • Clean Architecture
+**Android**
 
-**Side Projects & Backend**
-- **Backend:** Java • Spring Boot • PostgreSQL
+Kotlin  
+Jetpack Compose  
+Coroutines  
+MVVM  
+Clean Architecture
 
-**Blockchain & Web3**
-- Dapps with JavaScript/TypeScript  
-- Solidity • Hardhat • Truffle • Web3j
+**Backend / Side projects**
 
-**Cross-Platform Development**
-- Kotlin Multiplatform (KMP)
+Java  
+Spring Boot  
+PostgreSQL
+
+**Blockchain**
+
+Solidity  
+Hardhat  
+Truffle  
+Web3j  
+Dapps with JavaScript / TypeScript
+
+**Cross platform**
+
+Kotlin Multiplatform (KMP)
 
 **Background**
-- Studied Electrical Engineering  
-- Self-taught Software Engineer  
-- Currently expanding into TypeScript, Backend & Blockchain systems
+
+I studied Electrical Engineering and later moved into software development.  
+Most of what I know is self taught. Recently I have been learning more about TypeScript, backend systems, and blockchain development.
+
+### Find Me
+
+YouTube  
+https://www.youtube.com/@OtagoTech
+
+Website  
+https://alirezaiyan.com
+
+GitHub  
+https://github.com/rezaiyan
+
+ADPList  
+https://adplist.org/mentors/ali-rezaiyan
 
 ---
 
-### 📈 GitHub Stats
+If you want to connect or talk about software, feel free to reach out.
 
-<a href="https://github.com/rezaiyan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaiyan&theme=radical&show_icons=true" />
-</a>
-<a href="https://github.com/rezaiyan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaiyan&langs_count=2" />
-</a>
+
 
 ---
+### GitHub Stats
 
-### 🌍 Find Me Here
+![GitHub Streak](https://streak-stats.demolab.com?user=rezaiyan)
 
-| Platform | Link |
-|--------|------|
-| 🎬 YouTube | https://www.youtube.com/@OtagoTech |
-| 🌐 Personal Website | https://alirezaiyan.com |
-| 💻 GitHub | https://github.com/rezaiyan |
-| 🤝 ADPlist (Mentoring) | https://adplist.org/mentors/ali-rezaiyan |
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezaiyan&bg_color=ffffff&color=000000&line=2f80ed&point=2f80ed&area=false)
 
 ---
-
-### 🧩 Portfolio
-#### **→ https://alirezaiyan.com**
-
----
-
-🤝 Always open to connect, learn, and collaborate!
