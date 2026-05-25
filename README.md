@@ -1,76 +1,48 @@
 <div align="center">
-  <h1>Hi, I'm Ali 👋</h1>
+  <h1>Hey, I'm Ali 👋</h1>
 </div>
 
-Hi, thanks for stopping by.
-
-A big part of my life is software development. I spend a lot of time learning, building things, and trying to understand how systems work. My main focus is Android development, but I like exploring other areas as well.
-
-Sometimes that means backend projects, sometimes blockchain, sometimes just experimenting with a new tool or idea. Not everything is perfect, but I enjoy the process of learning and improving.
-
-I also like sharing what I learn. Recently I've been doing mentoring on ADPList and talking with other developers. I also tried making videos on YouTube. It turned out to be much harder than I expected 😅 but maybe I will come back to it again.
+Thanks for stopping by! I spend most of my time building stuff and learning how things work. Android dev is my main thing, but I'm always poking around with other stuff too—backend, blockchain, whatever looks interesting.
 
 ---
 
-### About Me
+## What I'm Into
 
 **Android**
+- Kotlin, Jetpack Compose, Coroutines
+- MVVM, Clean Architecture
 
-Kotlin  
-Jetpack Compose  
-Coroutines  
-MVVM  
-Clean Architecture
-
-**Backend / Side projects**
-
-Java  
-Spring Boot  
-PostgreSQL
+**Backend / Side Projects**
+- Java, Spring Boot, PostgreSQL
 
 **Blockchain**
+- Solidity, Hardhat, Truffle, Web3j
+- Building dapps with JavaScript/TypeScript
 
-Solidity  
-Hardhat  
-Truffle  
-Web3j  
-Dapps with JavaScript / TypeScript
-
-**Cross platform**
-
-Kotlin Multiplatform (KMP)
-
-**Background**
-
-I studied Electrical Engineering and later moved into software development.  
-Most of what I know is self taught. Recently I have been learning more about TypeScript, backend systems, and blockchain development.
-
-### Find Me
-
-YouTube  
-https://www.youtube.com/@OtagoTech
-
-Website  
-https://alirezaiyan.com
-
-GitHub  
-https://github.com/rezaiyan
-
-ADPList  
-https://adplist.org/mentors/ali-rezaiyan
+**Cross Platform**
+- Kotlin Multiplatform (KMP)
 
 ---
 
-If you want to connect or talk about software, feel free to reach out.
+## My Journey
 
+Started with Electrical Engineering, switched to coding, and haven't looked back. Most of what I know I taught myself. Right now diving deeper into TypeScript, backend stuff, and blockchain.
 
+I also mentor people on ADPList and make videos on YouTube. It's harder than I thought, but I'm enjoying it.
 
 ---
-### GitHub Stats
+
+## Where to Find Me
+
+- **YouTube** → [@OtagoTech](https://www.youtube.com/@OtagoTech)
+- **Website** → [alirezaiyan.com](https://alirezaiyan.com)
+- **Mentoring** → [ADPList](https://adplist.org/mentors/ali-rezaiyan)
+- **GitHub** → [@rezaiyan](https://github.com/rezaiyan)
+
+---
+
+If you wanna chat about code, ideas, or anything tech, just reach out! 🚀
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rezaiyan)
 
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezaiyan&bg_color=ffffff&color=000000&line=2f80ed&point=2f80ed&area=false)
-
----
